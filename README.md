@@ -85,4 +85,4 @@ Once the containers are up and running, you can access the application at http:/
 ### API Documentation
 The API endpoints can be tested using Postman. Import the following Postman collection to get started:
 
-[Uploading Social Network.postman_collection.json…]()
+[Api Collection](api_postman_collection.json)
