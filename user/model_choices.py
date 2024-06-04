@@ -1,1 +1,0 @@
-FRIEND_REQUEST_CHOICES = ('pending', 'Pending'), ('accepted', 'Accepted'), ('rejected', 'Rejected')
